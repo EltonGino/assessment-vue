@@ -1,4 +1,5 @@
-# vue-firebase
+# assessment-vue
+
 
 ## Project setup
 ```
